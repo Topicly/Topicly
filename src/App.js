@@ -18,9 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <SignIn />
       </header>
       <body>
-        <SignIn />
+        
       </body>
     </div>
   );
