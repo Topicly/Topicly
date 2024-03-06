@@ -2,8 +2,6 @@ import React from 'react';
 import './style.css';
 import 'boxicons/css/boxicons.min.css';
 
-
-/**
 function App() {
   const login = () => {
     // Add your login logic here
@@ -16,8 +14,6 @@ function App() {
   const myMenuFunction = () => {
     // Add your menu function logic here
   };
-
-*/
 
   return (
     <div className="wrapper">
